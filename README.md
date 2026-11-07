@@ -14,7 +14,8 @@
 
 
 ## 🧠 My Focus Areas
-- AI/ML Development, Data Analyst
+- AI/ML Development
+- Data Analyst
 
 
 ## 📊 GitHub Stats & Trophies
